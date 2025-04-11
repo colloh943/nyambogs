@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519722146666",
+    "project_id": "nyambogs",
+    "storage_bucket": "nyambogs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519722146666:android:5c466f23399e68b4abe313",
+        "android_client_info": {
+          "package_name": "com.example.nyambogs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzAy8wf8jr19jh4pVZ3qB1MRe3zzGZoBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
